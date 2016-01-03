@@ -1,2 +1,2 @@
 # editdistance
-a python code to find edit distance between two words
+a c++ code to find edit distance between two words
